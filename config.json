@@ -1,0 +1,14 @@
+{
+    "zip_database_path": "./zip_code_sample.csv",
+    "multiprocessing": "False",
+    "city_states": [
+        "City, State"
+    ],
+    "zip_codes": [
+        "10101"
+    ],
+    "sold": "False",
+    "sale_period": "None",
+    "lat_tuner": "1.5",
+    "lon_tuner": "1.5"
+}

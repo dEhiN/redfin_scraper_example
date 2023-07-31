@@ -1,0 +1,26 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+64720,STANDARD,0,Adrian,,,MO,"Bates County",America/Chicago,"660, 816",NA,US,38.39,-94.35,3610
+63730,STANDARD,0,Advance,,Greenbrier,MO,"Stoddard County",America/Chicago,573,NA,US,37.1,-89.91,2700
+64401,STANDARD,0,Agency,,,MO,"Buchanan County",America/Chicago,816,NA,US,39.65,-94.74,1480
+64830,"PO BOX",0,Alba,,,MO,"Jasper County",America/Chicago,417,NA,US,37.23,-94.41,657
+64402,STANDARD,0,Albany,,Gentryville,MO,"Gentry County",America/Chicago,660,NA,US,40.24,-94.33,2050
+65601,STANDARD,0,Aldrich,,,MO,"Polk County",America/Chicago,417,NA,US,37.54,-93.55,730
+63430,STANDARD,0,Alexandria,,"Saint Francisville",MO,"Clark County",America/Chicago,"217, 319, 447, 660",NA,US,40.39,-91.54,460
+64420,"PO BOX",0,Allendale,,,MO,"Worth County",America/Chicago,660,NA,US,40.49,-94.29,0
+63001,"PO BOX",1,Allenton,,,MO,"St. Louis County",America/Chicago,636,NA,US,38.5,-90.67,56
+64001,STANDARD,0,Alma,,,MO,"Lafayette County",America/Chicago,660,NA,US,39.09,-93.54,610
+64620,STANDARD,0,Altamont,,,MO,"Daviess County",America/Chicago,660,NA,US,39.88,-94.08,380
+63732,STANDARD,0,Altenburg,"New Wells",,MO,"Perry County",America/Chicago,573,NA,US,37.63,-89.58,800
+65606,STANDARD,0,Alton,,,MO,"Oregon County",America/Chicago,"417, 573",NA,US,36.69,-91.39,2640
+64421,STANDARD,0,Amazonia,,,MO,"Andrew County",America/Chicago,"660, 785, 816",NA,US,39.91,-94.94,770
+64422,STANDARD,0,Amity,,,MO,"DeKalb County",America/Chicago,816,NA,US,39.89,-94.49,270
+64722,STANDARD,0,Amoret,,,MO,"Bates County",America/Chicago,"660, 913",NA,US,38.25,-94.58,450
+64723,STANDARD,0,Amsterdam,,,MO,"Bates County",America/Chicago,"660, 816, 913",NA,US,38.34,-94.58,510
+63431,STANDARD,0,Anabel,,,MO,"Macon County",America/Chicago,660,NA,US,39.74,-92.31,320
+64831,STANDARD,0,Anderson,,,MO,"McDonald County",America/Chicago,"417, 539, 918",NA,US,36.65,-94.44,5360
+63330,STANDARD,0,Annada,,,MO,"Pike County",America/Chicago,"573, 618",NA,US,39.26,-90.82,140
+63620,STANDARD,0,Annapolis,Glover,,MO,"Iron County",America/Chicago,573,NA,US,37.35,-90.69,1030
+63820,"PO BOX",0,Anniston,,,MO,"Mississippi County",America/Chicago,573,NA,US,36.82,-89.32,224
+64724,STANDARD,0,"Appleton City",,,MO,"St. Clair County",America/Chicago,"417, 660",NA,US,38.19,-94.03,1440
+63432,STANDARD,0,Arbela,,,MO,"Scotland County",America/Chicago,660,NA,US,40.46,-92.01,460
+63821,STANDARD,0,Arbyrd,,,MO,"Dunklin County",America/Chicago,"573, 870",NA,US,36.05,-90.24,520
