@@ -1,12 +1,17 @@
-Jul-31-23 00:12:47: INFO - *****Beginning Log*****
-Jul-31-23 00:12:47: INFO - Function setup started.
-Jul-31-23 00:12:47: INFO - Function setup took 0.0038134999995236285 seconds.
-Jul-31-23 00:12:47: INFO - Function scrape started.
-Jul-31-23 00:12:49: INFO - Function scrape took 1.23359309999978 seconds.
-Jul-31-23 00:12:49: INFO - Function scrape started.
-Jul-31-23 00:12:49: WARNING - KEY ERROR: Zip Codes for ('Omaha', 'NE') could not be found.
-Jul-31-23 00:12:49: INFO - Function scrape took 0.00381559999914316 seconds.
-Jul-31-23 00:12:49: INFO - Function get_data started.
-Jul-31-23 00:12:49: INFO - Function get_data took 6.50000038149301e-06 seconds.
-Jul-31-23 00:12:49: INFO - Function get_data started.
-Jul-31-23 00:12:49: INFO - Function get_data took 1.1399999493733048e-05 seconds.
+Jul-31-23 00:24:41: INFO - *****Beginning Log*****
+Jul-31-23 00:24:41: INFO - Function setup started.
+Jul-31-23 00:24:41: INFO - Function setup took 0.0037790999995195307 seconds.
+Jul-31-23 00:24:41: INFO - Function scrape started.
+Jul-31-23 00:24:42: INFO - Function scrape took 1.3001138999989053 seconds.
+Jul-31-23 00:24:42: INFO - Function scrape started.
+Jul-31-23 00:24:42: WARNING - KEY ERROR: Zip Codes for ('Omaha', 'NE') could not be found.
+Jul-31-23 00:24:42: INFO - Function scrape took 0.011226800001168158 seconds.
+Jul-31-23 00:24:42: INFO - Function scrape started.
+Jul-31-23 00:24:42: WARNING - KEY ERROR: Zip Codes for ('Omaha', 'NE') could not be found.
+Jul-31-23 00:24:42: INFO - Function scrape took 0.007054699999571312 seconds.
+Jul-31-23 00:24:42: INFO - Function get_data started.
+Jul-31-23 00:24:42: INFO - Function get_data took 5.20000139658805e-06 seconds.
+Jul-31-23 00:24:43: INFO - Function get_data started.
+Jul-31-23 00:24:43: INFO - Function get_data took 8.700000762473792e-06 seconds.
+Jul-31-23 00:24:43: INFO - Function get_data started.
+Jul-31-23 00:24:43: INFO - Function get_data took 9.60000033956021e-06 seconds.
